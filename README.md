@@ -1,17 +1,14 @@
-<h1 align="center">Mohammad Jihad</h1>
-<h3 align="center">Full Stack Developer | JavaScript | TypeScript | React | Node.js | Next.js</h3>
+<h1 align="center">Mahedi Hasan Jihad</h1>
+<h3 align="center">Software Engineer | JavaScript | Node.js | NestJS | AWS | DevOps</h3>
+<h4 align="center">System Design | System Architecture | DBMS</h4>
 
 <p align="center">
   <i>"Building scalable, user-centric apps with clean architecture"</i>
 </p>
 
-<!-- 
-নোট: প্রথম ছবির ওই সোলার সিস্টেম অ্যানিমেশনটি একটি কাস্টম SVG। 
-আপনি চাইলে অনলাইনে "github profile solar system svg" লিখে সার্চ করে আপনার পছন্দমতো SVG জেনারেট করে এখানে লিংক বসাতে পারেন।
-আপাতত সুন্দর একটি গিটহাব টাইপিং অ্যানিমেশন দিলাম।
--->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Enterprise+Applications;Passionate+about+Clean+Code" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer;Expert+in+Node.js+%26+NestJS;System+Design+%26+Architecture;AWS+%26+DevOps+Enthusiast" alt="Typing SVG">
 </p>
 
 ---
@@ -32,7 +29,7 @@
   <a href="https://github.com/mahdijihad001/git-scnear">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdijihad001&repo=git-scnear&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=38bdf8&title_color=fff&text_color=a3a3a3" alt="GitHub Repo Cleaner" width="48%">
   </a>
-  <!-- আপনি চাইলে নিচেরটি পরিবর্তন করে আপনার অন্য কোনো প্রিয় রিপোজিটরির নাম দিতে পারেন -->
+
   <a href="https://github.com/mahdijihad001/advance-nestjs-server-setup">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdijihad001&repo=advance-nestjs-server-setup&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=38bdf8&title_color=fff&text_color=a3a3a3" alt="Advance NestJS Server" width="48%">
   </a>
