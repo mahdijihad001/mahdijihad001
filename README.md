@@ -19,22 +19,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdijihad001&theme=tokyonight&hide_border=true&background=0d1117&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="48%">
 </p>
 
-### 💻 LANGUAGE TELEMETRY & FOCUS SECTORS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdijihad001&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=fff&text_color=a3a3a3" alt="Top Languages" width="48%">
-</p>
-
-### 🌟 FEATURED SYSTEMS
-<p align="center">
-  <a href="https://github.com/mahdijihad001/git-scnear">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdijihad001&repo=git-scnear&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=38bdf8&title_color=fff&text_color=a3a3a3" alt="GitHub Repo Cleaner" width="48%">
-  </a>
-
-  <a href="https://github.com/mahdijihad001/advance-nestjs-server-setup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdijihad001&repo=advance-nestjs-server-setup&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=38bdf8&title_color=fff&text_color=a3a3a3" alt="Advance NestJS Server" width="48%">
-  </a>
-</p>
-
 ### 📈 CONTRIBUTION GRAPH
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdijihad001&theme=tokyonight&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=fff" alt="Contribution Graph" width="100%">
